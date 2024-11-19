@@ -1,0 +1,26 @@
+.box{height: 235px;}
+header{
+    border: 1px rgb(117, 85, 85) solid;
+    background-color: yellow;
+    
+
+}
+
+main{
+    border: 1px black solid;
+    background-color: rgb(155, 147, 147);
+  
+
+
+}
+
+footer{
+    border: 1px black solid;
+    background-color: blue;
+   
+
+}
+
+   
+
+
